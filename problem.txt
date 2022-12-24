@@ -1,0 +1,8 @@
+1)sass problem
+$ npm uninstall node-sass
+$ npm install sass --save-dev
+2)start problem
+"start": "react-scripts --openssl-legacy-provider start",
+3)Cannot find module 'bcrypt'
+npm uninstall --save bcrypt
+npm install bcrypt --save
